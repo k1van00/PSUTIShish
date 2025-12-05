@@ -1,7 +1,7 @@
 #НОВЫЙ_КОММЕНТАРИЙ_ОФИЦИАЛЬНО
 import time
-def console_greeting():  
-    name = input("Введите ваше имя: ")  
-    print(f"Hello world from {name}")
+def privet_s_imenem():  
+    imya = input("Введите ваше имя: ")  
+    print(f"Hello world from {imya}")
     time.sleep(10)
-console_greeting()
+privet_s_imenem()

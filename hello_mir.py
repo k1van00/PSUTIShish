@@ -1,3 +1,4 @@
+using namespace std #забыл, что в питоне этова не нада...
 import time
 def console_greeting():  
     name = input("Введите ваше имя: ")  

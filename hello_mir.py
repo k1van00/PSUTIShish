@@ -1,4 +1,4 @@
-using namespace std #забыл, что в питоне этова не нада...
+#НОВЫЙ_КОММЕНТАРИЙ_ОФИЦИАЛЬНО
 import time
 def console_greeting():  
     name = input("Введите ваше имя: ")  

@@ -1,3 +1,4 @@
+#НОВЫЙ_КОММЕНТАРИЙ_ОФИЦИАЛЬНО
 import time
 def console_greeting():  
     name = input("Введите ваше имя: ")  
